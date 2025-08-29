@@ -1,4 +1,4 @@
-# GIS_resources
+# GIS resources
 Miscellaneous resources related to geographic information systems (GIS)
 
 # Intro to GIS for Forest Management
