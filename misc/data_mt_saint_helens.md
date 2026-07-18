@@ -2,12 +2,12 @@
 
 ## Multispectral imagery
 * NASA / USGS [**Landsat**](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites) satellite imagery (30m) via [USGS Glovis](https://glovis.usgs.gov/app?fullscreen=0)
-  * Glovis [registration](https://ers.cr.usgs.gov/register)
+  * Glovis [registration](https://ers.cr.usgs.gov/register) 📝
 
 <img width="1914" height="837" alt="image" src="https://github.com/user-attachments/assets/40442ac1-3800-4d5e-90f7-858210fae604" />
 
 * Planet [**PlanetScope**](https://docs.planet.com/data/imagery/planetscope/) (3m) satellite imagery via [Planet Explorer](https://www.planet.com/explorer/)
-  * Planet Explorer [registration](https://www.sentinel-hub.com/create_account/?from_login=true)
+  * Planet Explorer [registration](https://www.sentinel-hub.com/create_account/?from_login=true) 📝
 
 <img width="1876" height="909" alt="image" src="https://github.com/user-attachments/assets/05732b99-1b96-4f5f-a44c-1d2ef99505e7" />
 
