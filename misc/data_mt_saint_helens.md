@@ -1,4 +1,5 @@
 # GIS data resources for [Mount Saint Helens](https://www.google.com/maps/place/Mt+St+Helens/@46.7261013,-122.3627251,190720m/data=!3m1!1e3!4m6!3m5!1s0x54969956568a2691:0x69ddb4f4b6cf94c7!8m2!3d46.1914006!4d-122.1955508!16zL20vMDk0eHo!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDcxNC4wIKXMDSoASAFQAw%3D%3D), Washington
+*last updated:* 🕚 *18.07.2026*
 
 ## Multispectral imagery
 * NASA / USGS [**Landsat**](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites) satellite imagery (30m) via [USGS Glovis](https://glovis.usgs.gov/app?fullscreen=0)
@@ -16,5 +17,15 @@
 
 <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/dba547bb-2c20-492e-9c24-9a8f25e98608" />
 
+## Washington State GIS data
+* Washington State GIS Data (WAGDA) [portal](https://wagda.lib.washington.edu/data/geography/wa_state/) (*from the University of Washington*)
+
+<img width="1516" height="900" alt="image" src="https://github.com/user-attachments/assets/333f84d2-9250-4953-a477-5a7f9370b4f6" />
+
+* State of Washington Geospatial Open Data [Portal](https://geo.wa.gov/)
+
+<img width="1174" height="626" alt="image" src="https://github.com/user-attachments/assets/8b5de81d-2bfb-4ad4-a4fd-9a799e1c38cd" />
+
+
 ## Miscellaneous GIS data
-* [Data Basin](https://databasin.org)
+* [Data Basin](https://databasin.org) - *Data Basin is a portal to access GIS data resources from across the globe*
