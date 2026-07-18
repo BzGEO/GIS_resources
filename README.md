@@ -1,5 +1,5 @@
 # GIS resources
-**Description:** Miscellaneous resources related to [geographic information systems (GIS)](https://www.esri.com/en-us/what-is-gis/overview)
+**Description:** *Miscellaneous resources related to [geographic information systems (GIS)](https://www.esri.com/en-us/what-is-gis/overview)*
 
 ## GIS courses at the [University of Washington](https://www.washington.edu/) (*archived*)
 
