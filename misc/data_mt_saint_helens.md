@@ -17,6 +17,11 @@
 
 <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/dba547bb-2c20-492e-9c24-9a8f25e98608" />
 
+## Land cover data
+* Esri [2017-2025 **land cover** data](https://livingatlas.arcgis.com/landcoverexplorer/#mapCenter=-122.17824%2C46.20187%2C12.00&mode=step&timeExtent=2017%2C2025&year=2025) (based on 10m Copernicus [Sentinel-2](https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2) data), via the [*Living Atlas*](https://livingatlas.arcgis.com/en/home/)
+
+<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/04b9537b-dff6-4740-81e3-5712f9cf96cf" />
+
 ## Washington State GIS data
 
 * State of Washington Geospatial Open Data [Portal](https://geo.wa.gov/)
